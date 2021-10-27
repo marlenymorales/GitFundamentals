@@ -24,5 +24,3 @@ Then when viewing the history of a git repository, you can pinpoint where the re
 ---
 
 [Back home](README.md)
-
-- [gti commit](./commands/commit.md)
